@@ -4,4 +4,6 @@
     <string name="tip_percentage_text">Tip Percentage:</string>
     <string name="number_of_people_text">Number of People:</string>
     <string name="calculate_button_text">Calculate</string>
+    <string name="total_per_person">Total Per Person: %1$s</string>
+    <string name="invalid_input">Invalid input! Try again</string>
 </resources>
